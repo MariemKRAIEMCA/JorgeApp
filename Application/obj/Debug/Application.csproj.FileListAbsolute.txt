@@ -1,0 +1,8 @@
+C:\Users\L008790\source\repos\Application\Application\bin\Debug\Application.exe.config
+C:\Users\L008790\source\repos\Application\Application\bin\Debug\Application.exe
+C:\Users\L008790\source\repos\Application\Application\bin\Debug\Application.pdb
+C:\Users\L008790\source\repos\Application\Application\obj\Debug\Application.csprojAssemblyReference.cache
+C:\Users\L008790\source\repos\Application\Application\obj\Debug\Application.csproj.CoreCompileInputs.cache
+C:\Users\L008790\source\repos\Application\Application\obj\Debug\Application.exe
+C:\Users\L008790\source\repos\Application\Application\obj\Debug\Application.pdb
+C:\Users\L008790\source\repos\Application\Application\obj\Debug\Application.csproj.ResolveComReference.cache
